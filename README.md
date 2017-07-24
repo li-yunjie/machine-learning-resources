@@ -19,7 +19,7 @@ Install [tensorflow](https://www.tensorflow.org/install/install_mac) via pip
 [Google's Python Class](https://developers.google.com/edu/python/?hl=en)  
 
 ### Books
-[Grokking Deep Learning]https://www.manning.com/books/grokking-deep-learning  
+[Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)  
 
 ### Articles
 [Week 1 of Udacity's Deep Learning Nanodegree Foundation Program](https://frankhinek.com/deep-learning-nanodegree-week-1/)  
