@@ -7,10 +7,10 @@ Install Python (the latest version) and [Jupyter Notebook](http://jupyter.org/in
 Install [pyenv](https://anil.io/blog/python/pyenv/using-pyenv-to-install-multiple-python-versions-tox/) to manage multiple python versions.  
 For google python course exercises set 2.7.12 as a local python version, and use the latest version installed with anaconda - 3.6.1 globally.
 
+For Editors I use [TextMate](https://macromates.com/) and [pyCharm](https://www.jetbrains.com/pycharm/download/?gclid=EAIaIQobChMI_pbM_u-g1QIVVgUqCh122AqvEAAYASABEgJR2PD_BwE&gclsrc=aw.ds.ds&dclid=CNKChoDwoNUCFQ6avAodJxIHzg#section=mac)
+
 #### TODO:
 Install [tensorflow](https://www.tensorflow.org/install/install_mac) via pip
-
-For Editors I use [TextMate](https://macromates.com/) and [pyCharm](https://www.jetbrains.com/pycharm/download/?gclid=EAIaIQobChMI_pbM_u-g1QIVVgUqCh122AqvEAAYASABEgJR2PD_BwE&gclsrc=aw.ds.ds&dclid=CNKChoDwoNUCFQ6avAodJxIHzg#section=mac)
 
 ### Python refresher
 [Learn X in Y minutes](https://learnxinyminutes.com/docs/python3/)  
@@ -19,8 +19,11 @@ For Editors I use [TextMate](https://macromates.com/) and [pyCharm](https://www.
 [Google's Python Class](https://developers.google.com/edu/python/?hl=en)  
 
 ### Books
+[Grokking Deep Learning]https://www.manning.com/books/grokking-deep-learning  
 
 ### Articles
+[Week 1 of Udacity's Deep Learning Nanodegree Foundation Program](https://frankhinek.com/deep-learning-nanodegree-week-1/)  
+[How do I learn machine learning?](https://www.quora.com/How-do-I-learn-machine-learning-1)  
 
 
 
