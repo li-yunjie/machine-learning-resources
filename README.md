@@ -12,6 +12,7 @@ For Editors I use [TextMate](https://macromates.com/) and [pyCharm](https://www.
 ### Python refresher
 [Learn X in Y minutes](https://learnxinyminutes.com/docs/python3/)  
 [CodeAcademy Python Course](https://www.codecademy.com/learn/python)  
+[Udacity's Introduction to Python](https://www.udacity.com/course/introduction-to-python--ud1110)
 [Google's Python Class](https://developers.google.com/edu/python/?hl=en)  
 
 ### Books
