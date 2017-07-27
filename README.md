@@ -22,8 +22,11 @@ Install [tensorflow](https://www.tensorflow.org/install/install_mac) via pip
 [Grokking Deep Learning](https://www.manning.com/books/grokking-deep-learning)  
 
 ### Articles
-[Week 1 of Udacity's Deep Learning Nanodegree Foundation Program](https://frankhinek.com/deep-learning-nanodegree-week-1/)  
+[Week 1 of Udacity's Deep Learning Nanodegree Foundation Program](https://frankhinek.com/deep-learning-nanodegree-week-1/)   
 [How do I learn machine learning?](https://www.quora.com/How-do-I-learn-machine-learning-1)  
 
-
-
+### Resources I gathered form Udacity deep learning slack channel
+[Linear ALgebra in 4 pages](https://minireference.com/static/tutorials/linear_algebra_in_4_pages.pdf)  
+[Tensorflow without PhD, a 2 hour video](https://www.youtube.com/watch?v=vq2nnJ4g6N0)  
+[Deep Learning Book](http://www.deeplearningbook.org/)  
+[Quick Numpy refresher](https://github.com/numanyilmaz/NumPyTutorial/blob/master/20170511_NY_NumPyTutorial.ipynb)  
